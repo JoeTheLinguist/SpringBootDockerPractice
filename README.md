@@ -11,3 +11,6 @@
 * Docker CLI
 * Docker Dashboard
 * Snyk developer security platform
+
+## Additional Useful Resources
+* [Unix & Linux Stackoverflow for Creating and Using Buildx Builders](https://unix.stackexchange.com/questions/748633/error-multiple-platforms-feature-is-currently-not-supported-for-docker-driver)
